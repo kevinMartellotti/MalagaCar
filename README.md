@@ -3,6 +3,7 @@ Proyecto de Ingeniería de Software
 Alejandro Gallardo Rodríguez
 <<<<<<< HEAD
 José Luis Quiñones Navarro
+.
 =======
 <<<<<<< HEAD
 Alejandro Postigo Velasco
