@@ -7,3 +7,4 @@ José Luis Quiñones Navarro
 Alejandro Postigo Velasco
 Kevin Nicolás Martellotti
 Alejandro Díaz Gómez
+Francisco Javier Gomez Barroso
