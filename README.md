@@ -1,6 +1,6 @@
 ﻿# MalagaCar
 Proyecto de Ingeniería de Software
-Alejandro Gallardo Rodríguez
+Alejandro Gallardo 
 Kevin Nicolás Martellotti
 Alfonso García Gálvez
 José Luis Quiñones Navarro
