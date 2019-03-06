@@ -1,5 +1,6 @@
 ﻿# MalagaCar
 Proyecto de Ingeniería de Software
+<<<<<<< HEAD
 Alejandro Gallardo Rodríguez
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7,6 +8,9 @@ Alejandro Gallardo Rodríguez
 =======
 <<<<<<< HEAD
 =======
+=======
+Alejandro Gallardo 
+>>>>>>> 8844b8aec3ea790a5f2f39758de15f9322a98eb8
 Kevin Nicolás Martellotti
 Alfonso García Gálvez
 José Luis Quiñones Navarro
