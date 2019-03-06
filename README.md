@@ -12,4 +12,7 @@ Alfonso García Gálvez
 José Luis Quiñones Navarro
 >>>>>>> a64ec34b2770dab2a289d58063eb63fcd1e8728f
 Alejandro Postigo Velasco
+Kevin Nicolás Martellotti
+Alejandro Díaz Gómez
 Francisco Javier Gomez Barroso
+Ignacio Olivares Lara
